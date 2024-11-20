@@ -1,7 +1,7 @@
 ### Zen ∞
 
-- 🔭 I’m currently creating Zager.consulting, Secure Equity Protection, and [ReachWell](https://www.reachwellapp.com/).
-- 🌱 I’m currently learning about software development and product design.
-- 👯 I’m looking to collaborate on anything centered on increasing an individual's creativity.
-- 🤔 I’m looking for help with staying inspired and focused.
-- 💬 Ask me about Ving Tsun Kung Fu.
+- 🔭 Building Zager.Consulting, [ReachWell](https://www.reachwellapp.com/) and Zelunk.
+- 🌱 Passions include Ving Tsun, Software Development, and Product Design.
+- 👯 Looking to collaborate on anything centered on increasing an individual's creativity.
+- 🤔 Searching for help with staying inspired and focused.
+- 💬 Ask me about Chiang Mai, Thailand.
