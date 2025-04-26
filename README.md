@@ -1,7 +1,16 @@
-### Zen ∞
+# Hi, I'm Z. 👨‍💻
 
-- 🔭  Currently building tools that blend AI, analytics, and storytelling.  Also [Laconic Network](https://laconic.com/), Zager Consulting, and the personal finance app Zelunk.
-- 🌱 Passions include human-centered tech, creative expression, and pushing the limits of code and design to make meaningful tools.
-- 👯 Looking to collaborate on wild ideas that mix art, philosophy, and intelligent systems.
-- 🤔 Searching for help with scaleups, clever deep learning tricks, and building things which don't lose the human touch. 
-- 💬 Ask me about building visionary systems, surviving startups, or designing tech that feels human...and wolrd travel.  
+I'm an engineer with experience in building scalable web applications working with: 
+
+- Frontend: React, Vue.js, HTML, CSS, JavaScript
+- Backend: Node.js, Python, Django
+- Database: PostgreSQL, MySQL, MongoDB, GraphQL, TimescaleDB
+- DevOps: Linux, Docker, Kubernetes, CI/CD Pipelines
+
+In addition to my technical expertise, I hold an MBA and have a strong background in systems engineering. This combination allows me to approach problems not only from a technical perspective but also with a deep understanding of business processes, strategy, and leadership.
+
+I'm passionate about bridging the gap between engineering and business, and I'm always looking for opportunities where I can contribute to both the technical and strategic growth of a company.
+
+- 🔭 Currently working on [Laconic Network](https://laconic.com/).
+- 🌱 Actively learning AI.
+- 💬 Open to discussions on AI, 3D product design, the meaning of life (if there is even one). 
