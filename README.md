@@ -1,16 +1,19 @@
-# Hi, I'm Z. 👨‍💻
+## Hi, I'm Z. 
 
-I'm an engineer with experience in building scalable web applications working with: 
+I'm an engineer with experience building scalable web applications.  
 
-- Frontend: React, Vue.js, HTML, CSS, JavaScript
-- Backend: Node.js, Python, Django
-- Database: PostgreSQL, MySQL, MongoDB, GraphQL, TimescaleDB
-- DevOps: Linux, Docker, Kubernetes, CI/CD Pipelines
+Toolset:
 
-In addition to my technical expertise, I hold an MBA and have a strong background in systems engineering. This combination allows me to approach problems not only from a technical perspective but also with a deep understanding of business processes, strategy, and leadership.
+- **Frontend:** React, Vue.js, HTML5, CSS3, JavaScript, Tailwind CSS, SASS, Next.js
+- **Backend:** Node.js, Python, Django, RESTful APIs, WebSockets
+- **Database:** PostgreSQL, MySQL, MongoDB, GraphQL, TimescaleDB, SQLite, Redis
+- **DevOps:** Linux, Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, CircleCI, GitLab CI), BASH scripting, Terraform, Ansible, nginx, Apache
 
-I'm passionate about bridging the gap between engineering and business, and I'm always looking for opportunities where I can contribute to both the technical and strategic growth of a company.
+I also bring a strong foundation in **systems engineering** - architecting reliable, maintainable systems with long-term scalability and performance in mind.
+
+Combined with an **MBA**, I bridge the technical and business worlds. I understand how engineering decisions affect product strategy, costs, and long-term growth. I'm not just building feature - I'm building sustainable, valuable businesses.
+
 
 - 🔭 Currently working on [Laconic Network](https://laconic.com/).
 - 🌱 Actively learning AI.
-- 💬 Open to discussions on AI, 3D product design, the meaning of life (if there is even one). 
+- 💬 Open to discussions on AI, 3D product design, or the meaning of life (if there is even one). 
