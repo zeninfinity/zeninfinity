@@ -4,10 +4,10 @@ I'm an engineer with experience building scalable web applications.
 
 Toolset:
 
+- **DevOps:** Linux, Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, CircleCI, GitLab CI), BASH scripting, Terraform, Ansible, nginx, Apache
 - **Frontend:** React, Vue.js, HTML5, CSS3, JavaScript, Tailwind CSS, SASS, Next.js
 - **Backend:** Node.js, Python, Django, RESTful APIs, WebSockets
 - **Database:** PostgreSQL, MySQL, MongoDB, GraphQL, TimescaleDB, SQLite, Redis
-- **DevOps:** Linux, Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, CircleCI, GitLab CI), BASH scripting, Terraform, Ansible, nginx, Apache
 
 I also bring a strong foundation in **systems engineering** - architecting reliable, maintainable systems with long-term scalability and performance in mind.
 
