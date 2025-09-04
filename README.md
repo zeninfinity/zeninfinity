@@ -1,8 +1,8 @@
 ## Hi, I'm Z. 
 
-I'm an engineer with an MBA.  I bridge the technical and business worlds.  
+I'm an engineer with an MBA, bridging the technical and business worlds.  
 
-I bring a deep, strong foundation in **systems engineering** - architecting reliable, maintainable systems with long-term scalability and performance in mind.  I also understand how engineering decisions affect product strategy, costs, and long-term growth. I don't just fix servers and code - I'm building sustainable, valuable businesses.
+I bring a deep, strong foundation in **systems engineering** - architecting reliable, maintainable systems with long-term scalability and performance in mind.  I also understand how engineering decisions affect product strategy, costs, and long-term growth. I don't just fix servers and code - I'm build sustainable, valuable businesses.
 
 Toolset:
 
@@ -11,6 +11,6 @@ Toolset:
 - **Backend:** Node.js, Python, Django, RESTful APIs, WebSockets
 - **Database:** PostgreSQL, MySQL, MongoDB, GraphQL, TimescaleDB, SQLite, Redis
 
-- 🔭 Currently working on [Laconic Network](https://laconic.com/).
-- 🌱 Actively learning AI.
+- 🔭 Currently working on [Mendful](https://www.mendful.world/) and [Becoming](http://becoming.help/).
+- 🌱 Actively learning AI, CBT modalities, and [Blender](https://www.blender.org/).
 - 💬 Open to discussions on AI, 3D product design, or the meaning of life (if there is even one). 
